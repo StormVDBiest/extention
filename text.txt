@@ -1,6 +1,16 @@
 test{
     hallo dit is een test
     dit is een 2de lijn <=:;,
+    hallo dit is een test
+    dit is een 2de lijn <=:;,
+    hallo dit is een test
+    dit is een 2de lijn <=:;,
+    hallo dit is een test
+    dit is een 2de lijn <=:;,
+    hallo dit is een test
+    dit is een 2de lijn <=:;,
+    hallo dit is een test
+    dit is een 2de lijn <=:;,
 }
 hallo{
     ik ben hallo
