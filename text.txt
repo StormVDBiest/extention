@@ -2,3 +2,9 @@ test{
     hallo dit is een test
     dit is een 2de lijn <=:;,
 }
+hallo{
+    ik ben hallo
+}
+uma{
+    ik ben u ma
+}
